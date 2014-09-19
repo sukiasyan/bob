@@ -6,7 +6,8 @@ require('header.php');
 	get to know us.</p>
 
 <p>We specialize in serving your business needs and hope to hear
-	from you soon. GIT</p>
+	from you soon. GIT hhhhhh
+kkkkkk</p>
 <?php
 require('footer.php');
 
